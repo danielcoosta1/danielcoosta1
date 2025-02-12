@@ -9,7 +9,7 @@
 ## Minha jornada
 Estou em transição de carreira para a área de tecnologia, buscando me tornar um desenvolvedor **Full Stack**. Tenho me dedicado ao estudo de ferramentas e tecnologias tanto no **front-end** quanto no **back-end**, e estou animado para construir soluções que impactem positivamente a vida das pessoas.
 
-## Tecnologias usadas
+## Tecnologias usadas atualmente
 ### Front-end
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
