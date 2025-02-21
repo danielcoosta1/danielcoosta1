@@ -29,7 +29,13 @@ Estou em transição de carreira para a área de tecnologia, buscando me tornar 
 - 💡 Desenvolver soluções criativas e eficientes.
 
 ## Conecte-se comigo
-[![Instagram](https://img.icons8.com/fluency/22/000000/instagram-new.png)](https://www.instagram.com/dcc.daniel/) [![LinkedIn](https://img.icons8.com/color/22/000000/linkedin.png)](https://www.linkedin.com/in/daniel-costa-bb3663147/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/daniel-costa-bb3663147/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dcc.daniel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+
+</p>
 
 ## Estatísticas do GitHub
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcoosta1&show_icons=true&theme=tokyonight)
