@@ -32,7 +32,7 @@ Estou em transição de carreira para a área de tecnologia, buscando me tornar 
 [![Instagram](https://img.icons8.com/fluency/22/000000/instagram-new.png)](https://www.instagram.com/dcc.daniel/) [![LinkedIn](https://img.icons8.com/color/22/000000/linkedin.png)](https://www.linkedin.com/in/daniel-costa-bb3663147/)
 
 ## Estatísticas do GitHub
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcoosta1)](https://github.com/danielcoosta1/github-readme-stats)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcoosta1&show_icons=true&theme=tokyonight)
 
 ## Linguagens mais usadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcoosta1)](https://github.com/danielcoosta1/github-readme-stats)
