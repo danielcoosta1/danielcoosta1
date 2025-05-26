@@ -17,7 +17,7 @@ Desenvolvedor Web em transição de carreira, com formação incompleta em Engen
 </p>
 
 ### Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,node,express,vite,styledcomponents&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,nodejs,express,vite,styledcomponents&perline=3)](https://skillicons.dev)
 
 ## Objetivos
 - 🎯 Me tornar um desenvolvedor **Full Stack** competente.
