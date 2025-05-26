@@ -35,9 +35,14 @@ Estou em transição de carreira para a área de tecnologia, buscando me tornar 
 ## Conecte-se comigo
 <p align="left">
 
-<p align="center">
+<p>
   <a href="https://www.instagram.com/dcc.daniel/">
     <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/daniel-correia-costa/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 </p>
