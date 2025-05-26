@@ -7,7 +7,7 @@
 - 🚀 Aspirante a **Desenvolvedor Full Stack**.
 
 ## Minha jornada
-Estou em transição de carreira para a área de tecnologia, buscando me tornar um desenvolvedor **Full Stack**. Tenho me dedicado ao estudo de ferramentas e tecnologias tanto no **front-end** quanto no **back-end**, e estou animado para construir soluções que impactem positivamente a vida das pessoas.
+Desenvolvedor Web em transição de carreira, com formação incompleta em Engenharia Elétrica e experiência e com experiência na área de vendas. Atualmente curso Ciência da Computação e atuo como freelancer, desenvolvendo projetos com HTML, CSS, JavaScript, TypeScript, React e Node.js. Tenho foco em usabilidade, acessibilidade e boas práticas de código. Busco colaborar com soluções modernas e centradas no usuário.
 
 ## Tecnologias usadas atualmente
 - Front - end :
