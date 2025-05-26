@@ -44,7 +44,7 @@ Estou em transição de carreira para a área de tecnologia, buscando me tornar 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcoosta1&show_icons=true&theme=tokyonight)
 
 ## Linguagens mais usadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?danielcoosta1=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcoosta1&layout=donut)](https://github.com/danielcoosta1/github-readme-stats)
 
 ---
 
