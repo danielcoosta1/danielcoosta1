@@ -35,9 +35,11 @@ Estou em transição de carreira para a área de tecnologia, buscando me tornar 
 ## Conecte-se comigo
 <p align="left">
 
-<a href="https://www.linkedin.com/in/daniel-costa-bb3663147/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dcc.daniel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-
+<p align="center">
+  <a href="https://www.instagram.com/dcc.daniel/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 </p>
 
 ## Estatísticas do GitHub
