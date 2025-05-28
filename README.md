@@ -7,7 +7,7 @@
 - 🚀 Aspirante a **Desenvolvedor Full Stack**.
 
 ## Minha jornada
-Desenvolvedor Web em transição de carreira, com formação incompleta em Engenharia Elétrica e experiência e com experiência na área de vendas. Atualmente curso Ciência da Computação e atuo como freelancer, desenvolvendo projetos com HTML, CSS, JavaScript, TypeScript, React e Node.js. Tenho foco em usabilidade, acessibilidade e boas práticas de código. Busco colaborar com soluções modernas e centradas no usuário.
+Desenvolvedor Web em transição de carreira, com formação incompleta em Engenharia Elétrica e com experiência na área de vendas. Atualmente curso Ciência da Computação e atuo como freelancer, desenvolvendo projetos com HTML, CSS, JavaScript, TypeScript, React e Node.js. Tenho foco em usabilidade, acessibilidade e boas práticas de código. Busco colaborar com soluções modernas e centradas no usuário.
 
 ## Tecnologias usadas atualmente
 <p>
