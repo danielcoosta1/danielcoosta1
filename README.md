@@ -7,7 +7,7 @@
 - 🚀 Aspirante a **Desenvolvedor Full Stack**.
 
 ## Minha jornada
-Desenvolvedor Web em transição de carreira com background em Engenharia Elétrica. Atualmente curso Ciência da Computação(2/10) e desenvolvo projetos com ReactJS, Node.js e JavaScript.
+Desenvolvedor Web em transição de carreira com background em Engenharia Elétrica. Atualmente curso Ciência da Computação(4/10) e desenvolvo projetos com ReactJS, Node.js + Express e JavaScript.
 
 ## Tecnologias usadas atualmente
 <p>
