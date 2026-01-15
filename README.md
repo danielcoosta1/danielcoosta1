@@ -38,10 +38,9 @@ Desenvolvedor Web em transição de carreira com background em Engenharia Elétr
 </p>
 
 ## Estatísticas do GitHub
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcoosta1&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?danielcoosta1=anuraghazra&show_icons=true&theme=dracula)
 
-## Linguagens mais usadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcoosta1&layout=donut)](https://github.com/danielcoosta1/github-readme-stats)
+
 
 ---
 
