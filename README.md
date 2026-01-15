@@ -38,7 +38,7 @@ Desenvolvedor Web em transição de carreira com background em Engenharia Elétr
 </p>
 
 ## Estatísticas do GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?danielcoosta1=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcoosta1&show_icons=true&theme=dracula)
 
 
 
