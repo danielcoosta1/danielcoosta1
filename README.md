@@ -12,7 +12,7 @@ Desenvolvedor Web em transição de carreira com background em Engenharia Elétr
 ## Tecnologias usadas atualmente
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css" />
   </a>
 </p>
 
