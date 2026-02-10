@@ -7,7 +7,7 @@
 - 🚀 Aspirante a **Desenvolvedor Full Stack**.
 
 ## Minha jornada
-Desenvolvedor Full Stack em formação (Ciência da Computação), com foco no ecossistema JavaScript (React.js, Node.js, Express). 
+Desenvolvedor Full Stack em formação, com foco no ecossistema JavaScript ( MongoDB, Express, React, Node.Js) - MERN Stack. 
 
 ## Tecnologias usadas atualmente
 <p>
