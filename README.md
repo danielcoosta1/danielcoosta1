@@ -21,7 +21,7 @@ Desenvolvedor Full Stack em formação, com foco no ecossistema JavaScript ( Mon
 
 ## Objetivos
 - 🎯 Me tornar um desenvolvedor **Full Stack** competente.
-- 🌱 Aprender e contribuir para projetos open source.
+- 🌱 Aprender e contribuir em grandes projetos/empresas.
 - 💡 Desenvolver soluções criativas e eficientes.
 
 ## Conecte-se comigo
