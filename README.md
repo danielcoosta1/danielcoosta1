@@ -1,12 +1,5 @@
-# 👋 Olá, eu sou o Daniel Costa!
+# Daniel Costa
 
-## Sobre mim
-- 🎂 Tenho 28 anos.
-- 🏠 Moro em João Pessoa - PB, Brasil.
-- 🎓 Atualmente cursando **Ciências da Computação**.
-- 🚀 Aspirante a **Desenvolvedor Full Stack**.
-
-## Minha jornada
 Desenvolvedor Full Stack em formação, com foco no ecossistema JavaScript ( MongoDB, Express, React, Node.Js) - MERN Stack. 
 
 ## Tecnologias usadas atualmente
