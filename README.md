@@ -12,11 +12,6 @@ Desenvolvedor Full Stack em formação, com foco no ecossistema JavaScript ( Mon
 ### Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,nodejs,express,vite,styledcomponents)](https://skillicons.dev)
 
-## Objetivos
-- 🎯 Me tornar um desenvolvedor **Full Stack** competente.
-- 🌱 Aprender e contribuir em grandes projetos/empresas.
-- 💡 Desenvolver soluções criativas e eficientes.
-
 ## Conecte-se comigo
 <p align="left">
 
